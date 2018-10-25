@@ -1,4 +1,4 @@
-extern crate layout;
+extern crate servo;
 extern crate amethyst_assets;
 extern crate amethyst_core;
 extern crate amethyst_input;

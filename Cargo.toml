@@ -7,7 +7,7 @@ edition = "2018"
 categories = ["game-engines", "interface", "ui"]
 
 [dependencies]
-layout = { git = "https://github.com/servo/servo.git" }
+libservo = { path = "./servo/components/servo" }
 amethyst_assets = "0.5.0"
 amethyst_audio = "0.4.0"
 amethyst_core = "0.4.0"
